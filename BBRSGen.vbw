@@ -1,0 +1,12 @@
+frmSelectData = 57, 57, 546, 403, Z, 76, 76, 565, 422, C
+frmStringFormat = 133, 133, 622, 479, , 152, 152, 641, 498, C
+modBuildSQL = 0, 0, 0, 0, C
+frmCriteria = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modParseSQL = 0, 0, 0, 0, C
+iadcnVBRSGen = 95, 95, 584, 441, , 114, 114, 764, 674, C
+frmTips = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmHelp = 0, 0, 0, 0, C, 0, 0, 489, 346, C
+modGetDatabase = 0, 0, 0, 0, C
+modStringStuff = 171, 171, 660, 517, 
+frmDataGrid = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modFileIO = 19, 19, 508, 365, 
